@@ -9,9 +9,9 @@ export default {
             title: 'Title'
         },
         {
-            name: 'desc',
+            name: 'about',
             type: 'string',//type is given in documentation
-            title: 'Desc'
+            title: 'About'
         },
         {
             name: 'image',
